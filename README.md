@@ -710,7 +710,7 @@ print("Best Parameters: " + str(knn_cv.best_params_))
 
 
 
-### Simulai Data
+### Simulasi Data
 ```python
 input_data = np.array([[1, 11.8, 6.1, 1, 0, 1, 1]])
 prediction = model.predict(input_data)
@@ -866,9 +866,6 @@ Di mana:
 - "Total Jumlah Prediksi" adalah jumlah total prediksi yang dilakukan oleh model.
 
 Error Rate memberikan persentase kesalahan relatif terhadap seluruh prediksi. Semakin rendah nilai Error Rate, semakin baik performa model, karena menunjukkan bahwa model memiliki lebih sedikit kesalahan prediksi relatif terhadap total prediksi yang dilakukan.
-
-
-Hasil evaluasi termasuk matriks kebingungan, laporan klasifikasi, skor validasi silang, skor ROC AUC, dan skor akurasi. Metrik-metrik ini memberikan gambaran tentang seberapa baik model KNN dapat melakukan prediksi pada data uji (x_test dan y_test).
 
 ## Visualisasi Hasil Modeling dan Evaluation
 
