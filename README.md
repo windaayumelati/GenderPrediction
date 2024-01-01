@@ -1146,7 +1146,7 @@ df.to_csv('GenderPrediction.csv',index=False)
 
 ## Deployment
 
-genderprediction.streamlit.app/
+[genderprediction.streamlit.app/](https://genderprediction.streamlit.app/)
 
 ![Alt text](image-58.png)
 ![Alt text](image-59.png)
