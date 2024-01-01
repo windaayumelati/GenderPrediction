@@ -8,7 +8,7 @@ def app(df, x, y):
     st.title("Halaman Prediksi Gender")
     st.image('gb4.png', width=280)  # Sesuaikan lebar gambar sesuai kebutuhan
 
-    col1, col2 = st.columns(2)
+    col1, col2 = st.beta_columns(2)
 
     with col1:
         long_hair_options = {0: 'No', 1: 'Yes'}
