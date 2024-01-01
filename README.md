@@ -1146,8 +1146,8 @@ df.to_csv('GenderPrediction.csv',index=False)
 
 ## Deployment
 
-gender-prediction.streamlit.app
+genderprediction.streamlit.app
 
 ![Alt text](image-58.png)
 ![Alt text](image-59.png)
-![Alt text](image-60.png)
+![image](https://github.com/windaayumelati/GenderPrediction/assets/148794156/89560ec6-5b2c-48ca-8e75-fe638b91fc1b)
