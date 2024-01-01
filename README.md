@@ -827,6 +827,7 @@ Accuracy Score mengukur seberapa akurat model dalam memprediksi kelas target. In
 Namun, penting untuk dicatat bahwa evaluasi ini mungkin bukan evaluasi akhir yang menyeluruh.
 
 Accuracy Score dihitung dengan rumus sederhana sebagai rasio antara prediksi yang benar (True Positives + True Negatives) dengan total jumlah prediksi (semua empat elemen matriks kebingungan). 
+
 Rumusnya adalah:
 
 ![Alt text](image-56.png)
