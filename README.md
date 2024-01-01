@@ -1146,6 +1146,6 @@ df.to_csv('GenderPrediction.csv',index=False)
 
 [genderprediction.streamlit.app/](https://genderprediction.streamlit.app/)
 
-![Alt text](image-58.png)
+![image](https://github.com/windaayumelati/GenderPrediction/assets/148794156/ef09b429-6b9b-4b6c-b927-171ca1cabd48)
 ![Alt text](image-59.png)
 ![image](https://github.com/windaayumelati/GenderPrediction/assets/148794156/89560ec6-5b2c-48ca-8e75-fe638b91fc1b)
