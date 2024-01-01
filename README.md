@@ -661,7 +661,7 @@ print(y.shape)
 
 ![Alt text](image-35.png)
 
-##Modeling
+## Modeling
 Selanjutnya kita lanjut ke Modelling
 
 - Selanjutnya yaitu melakukan split data, yaitu memisahkan data training dan data testing dengan script seperti berikut:
