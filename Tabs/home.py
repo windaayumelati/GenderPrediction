@@ -4,7 +4,7 @@ def app():
     # HTML untuk mengatur judul di tengah halaman
     st.markdown("""
         <div style='text-align: center;'>
-            <h1 style='font-size: 2.8em;'>Aplikasi Prediksi Gender Berdasarkan Ciri dan Karakteristik Wajah Menggunakan Metode KNeighborsClassifier (KNN)</h1>
+            <h1 style='font-size: 2.8em;'>Aplikasi Prediksi Gender Berdasarkan Ciri dan Karakteristik Wajah Menggunakan Metode K-Nearest Neighbor (KNN)</h1>
         </div>
     """, unsafe_allow_html=True)
 
