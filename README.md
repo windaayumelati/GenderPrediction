@@ -837,6 +837,8 @@ Accuracy memberikan gambaran tentang seberapa akurat model dalam memprediksi sel
 Berikut merupakan ROC dan Akurasi dari Studi Kasus ini, kita bisa membuatnya menggunakan kode:
 
 ```python
+knn.fit(x_train, y_train)
+y_pred = knn.predict(x_test)
 y_pred_proba=knn.predict_proba(x_test)[:,1]
 
 print("\n ROC AUC Score knn : {}".format(roc_auc_score(y_test, y_pred_proba)))
